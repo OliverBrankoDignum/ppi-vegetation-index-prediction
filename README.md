@@ -17,3 +17,4 @@ Points one and two I would fix simply by writing the polished notebook, but poin
 
 My original internship task started with both of these files being given so I've had no problem asking ChatGPT for help here.
 
+IMPORTANT:Download or clone the complete repository and run the notebook from the repository root so that the relative input paths resolve correctly.

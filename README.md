@@ -12,9 +12,8 @@ Points one and two I would fix simply by writing the polished notebook, but poin
      https://sentinel-cogs.s3.us-west-2.amazonaws.com/sentinel-s2-l2a-cogs/35/T/NJ/2019/8/S2B_35TNJ_20190826_0_L2A/TCI.tif
      This image was cropped to a more manageable size and we will study its properties more deeply in the notebook once we get to it. The final image we will be 
      working with is 'Sentinel2_Bulgaria_2019-08-26_RGB_StudyArea.tif'
-  2. PPI was calculated from available observations. During my 2025 internship we delve deeply into how PPI is calculated so I will keep this part 
-     simple, and will explain the methodology in a separate file.
+  2. PPI was calculated from available observations.
 
 My original internship task started with both of these files being given so I've had no problem asking ChatGPT for help here.
 
-IMPORTANT:Download or clone the complete repository and run the notebook from the repository root so that the relative input paths resolve correctly.
+IMPORTANT: Download or clone the complete repository and run the notebook from the repository root so that the relative input paths resolve correctly.
